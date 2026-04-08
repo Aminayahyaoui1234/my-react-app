@@ -1,0 +1,13 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.000
+Welcome to this video
+
+00:00:05.000 --> 00:00:10.000
+We are at Amina School and learning a lot
+
+00:00:10.000 --> 00:00:15.000
+Stay with us for more lessons
+
+00:00:15.000 --> 00:00:20.000
+Thank you for watching!
